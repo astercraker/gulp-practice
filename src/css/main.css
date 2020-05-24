@@ -36,7 +36,14 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
+html {
+  box-sizing: border-box;
+  background: #222929; }
+
+*, *:after, *:before {
+  box-sizing: inherit; }
+
 body {
-  background: red; }
+  font-family: 'Roboto'; }
 
 /* endinject */
