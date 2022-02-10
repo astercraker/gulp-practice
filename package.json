@@ -29,7 +29,7 @@
     "gulp-util": "^3.0.8"
   },
   "dependencies": {
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "three": "^0.115.0"
   }
 }
